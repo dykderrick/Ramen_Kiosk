@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sat May 30 06:20:04 CST 2020
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=Ramen_Kiosk_v5_fat.jar
+manifest.mergeall=true
+manifest.mainclass=com.group_91.drive.Drive
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
